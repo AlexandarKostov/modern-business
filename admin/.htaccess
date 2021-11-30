@@ -1,0 +1,12 @@
+RewriteEngine on
+
+RewriteRule ^login login.php [NC,L]
+RewriteRule ^dashboard index.php [NC,L]
+RewriteRule ^server server.php [NC,L]
+RewriteRule ^users users.php [NC,L]
+RewriteRule ^newsletters newsletters.php [NC,L]
+RewriteRule ^testimonial testimonial.php [NC,L]
+RewriteRule ^blog-post blog-post.php [NC,L]
+RewriteRule ^port-item port-item.php [NC,L]
+RewriteRule ^page page.php [NC,L]
+RewriteRule ^logout logout.php [NC,L]

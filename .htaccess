@@ -1,0 +1,18 @@
+RewriteEngine on
+
+RewriteRule ^home index.php [NC,L]
+RewriteRule ^about-us about-us.php [NC,L]
+RewriteRule ^pricing pricing.php [NC,L]
+RewriteRule ^blog blog.php [NC,L]
+RewriteRule ^view-post view-post.php [NC,L]
+RewriteRule ^portfolio portfolio.php [NC,L]
+RewriteRule ^view-item view-item.php [NC,L]
+RewriteRule ^faq faq.php [NC,L]
+RewriteRule ^contact contact.php [NC,L]
+RewriteRule ^privacy-policy privacy-policy.php [NC,L]
+RewriteRule ^terms-of-use terms-of-use.php [NC,L]
+RewriteRule ^404 404.php [NC,L]
+RewriteRule ^server server.php [NC,L]
+RewriteRule ^profile profile.php [NC,L]
+RewriteRule ^reset-password reset-password.php [NC,L]
+RewriteRule ^logout logout.php [NC,L]
