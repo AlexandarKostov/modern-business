@@ -16,6 +16,7 @@ $mysql_username = "root"; //To your local user
 $mysql_password = ""; //If you don't have password, then leave it blank
 $mysql_database = "modern_business"; //To your database name.. (modern_business) -recommended```
 3. After settng the right properties save the file and create the database in your **DBMS**.
+4. #### You need to repeat the same actions in **admin** folder.
 
 
 ### Also another tip/recommendation
