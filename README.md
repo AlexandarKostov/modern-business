@@ -30,3 +30,4 @@ Because you don't want if any error occurs to be shown, you will need to change 
 
 
 *Please if you find any errors or bugs reprot them or open issue, so I can fix them and provide you with the best version of this software.*
+Feel free to use this code like a guide, or if you have an idea for expanding it, you have freedom of thought and work
